@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,300i,400,700,900&subset=latin-ext');
+
+* {
+    font-family: "Lato";
+    line-height: 1.5;
+    margin: 10px auto;
+    background-color: #1F464C;
+    color: #fff;
+}
+
+
+.header {
+    text-align: center;
+}
+
+
+.verse {
+    width: 25%;
+    margin: 30px auto;
+    text-align: left;
+}
